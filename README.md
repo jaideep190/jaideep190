@@ -1,22 +1,25 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Thakur+Jaideep+Singh;Machine+Learning;Full+Stack&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+Thakur+Jaideep+Singh;Welcome+to+my+profile!&center=true&size=30&color=f75c7e&background=FFFFFF00&vCenter=true&width=450&height=60&duration=4000&pause=1000">
   </a>
 </h1>
 
-<h2 align="center" style="color: #6c5ce7; font-family: 'Montserrat', sans-serif;">Full-Stack Developer | Machine Learning Enthusiast</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2b2b2b" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2b2b2b" alt="Machine Learning Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaideep190&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding animation"/>
+</div>
 
-<h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;">About Me</h2>
-
-<p style="font-size: 16px; line-height: 1.6;">
-I'm a passionate Full-Stack Developer with a keen interest in Machine Learning. My expertise spans across various programming languages and frameworks, allowing me to create robust and efficient solutions for complex problems.
-</p>
+<h2 align="center" style="color: #6c5ce7; font-family: 'Montserrat', sans-serif; margin-top: 20px;">
+  Passionate about crafting elegant solutions and pushing the boundaries of technology
+</h2>
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>🔭 Currently working on innovative full-stack projects</li>
