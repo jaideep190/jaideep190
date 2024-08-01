@@ -1,25 +1,43 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+Thakur+Jaideep+Singh;Welcome+to+my+profile!&center=true&size=30&color=f75c7e&background=FFFFFF00&vCenter=true&width=450&height=60&duration=4000&pause=1000">
-  </a>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A020F0&center=true&vCenter=true&width=940&lines=Welcome+to+Thakur+Jaideep+Singh's+GitHub+Profile!" alt="Animated Welcome Text" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2b2b2b" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2b2b2b" alt="Machine Learning Enthusiast" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Elegant Coding Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Passionate about crafting elegant solutions and pushing the boundaries of technology
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaideep190&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jaideep190&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding animation"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jaideep190&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
 
-<h2 align="center" style="color: #6c5ce7; font-family: 'Montserrat', sans-serif; margin-top: 20px;">
-  Passionate about crafting elegant solutions and pushing the boundaries of technology
-</h2>
+<br/>
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>🔭 Currently working on innovative full-stack projects</li>
