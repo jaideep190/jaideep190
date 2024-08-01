@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+👋;I'm+Thakur+Jaideep+Singh;Pleased+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Thakur+Jaideep+Singh;Machine+Learning;Full+Stack&center=true&size=30">
   </a>
 </h1>
 
@@ -99,6 +99,18 @@ I'm a passionate Full-Stack Developer with a keen interest in Machine Learning. 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideep190&theme=radical" alt="GitHub Streak" />
 </p>
+
+<div align="center">
+  <a href="https://github.com/Platane/snk" target="_blank">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  </a>
+</div>
+
+<div style="position: relative; width: 100%; height: 150px; background: #f0f0f0;">
+  <svg style="position: absolute; bottom: 0; width: 100%; height: 100%;" viewBox="0 0 1440 320">
+    <path fill="#3498db" fill-opacity="0.7" d="M0,64L30,96C60,128,120,192,180,197.3C240,203,300,149,360,138.7C420,128,480,160,540,176C600,192,660,192,720,160C780,128,840,64,900,64C960,64,1020,128,1080,138.7C1140,149,1200,107,1260,106.7C1320,107,1380,149,1410,170.7L1440,192L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320H0V64Z"></path>
+  </svg>
+</div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
