@@ -46,7 +46,29 @@
   <li>📫 Reach me at: <strong>ajaiajai710@gmail.com</strong></li>
 </ul>
 
-<h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;">Connect with Me</h2>
+## 🌟 Featured Project: smartBP-Backend
+
+<div align="center">
+  <h3>SmartBP: Intelligent Blood Pressure Management System</h3>
+  <p>A robust backend solution for managing and analyzing blood pressure data.</p>
+</div>
+
+### Key Features:
+- 📊 Advanced data analytics for blood pressure trends
+- 🔐 Secure user authentication and data protection
+- 🔄 Real-time data synchronization
+- 📱 RESTful API for seamless frontend integration
+- 📈 Customizable reporting and alerts
+
+<div align="center">
+  <a href="https://github.com/jaideep190/smartBP-Backend" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github" alt="View Project on GitHub" />
+  </a>
+</div>
+
+<br/>
+
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/jaideep190" target="blank">
@@ -57,7 +79,7 @@
   </a>
 </p>
 
-<h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;">Technical Proficiencies</h2>
+## 💻 Technical Proficiencies
 
 <table>
   <tr>
@@ -120,7 +142,7 @@
   </tr>
 </table>
 
-<h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;">GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideep190&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
