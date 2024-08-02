@@ -58,14 +58,14 @@
         <img src="https://media.giphy.com/media/3o7TKMfn35NL1llPig/giphy.gif" width="60" height="60" alt="Stethoscope GIF"/>
         <p><em>Revolutionizing blood pressure measurement through video analysis</em></p>
         <a href="https://smart-bp-frontend.vercel.app/" target="_blank">Live Demo</a> | 
-        <a href="https://github.com/yourusername/smartBP-Frontend" target="_blank">Repository</a>
+        <a href="https://github.com/jaideep190/smartBP-Frontend" target="_blank">Repository</a>
       </td>
       <td align="center" width="50%">
         <h3>⚙️ SmartBP Backend</h3>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM0YzIzMzM2ZWNjNjQzZWNjMzM2YzMzNmM2MzY2NjMzNjY2NjY2NiZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60" height="60" alt="AI Processing GIF"/>
         <p><em>AI-powered blood pressure monitoring service</em></p>
         <a href="https://smartbp-backend.onrender.com" target="_blank">API Endpoint</a> | 
-        <a href="https://github.com/yourusername/smartBP-Backend" target="_blank">Repository</a>
+        <a href="https://github.com/jaideep190/smartBP-Backend" target="_blank">Repository</a>
       </td>
     </tr>
     <tr>
