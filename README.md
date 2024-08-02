@@ -31,11 +31,7 @@
   <img src="https://komarev.com/ghpvc/?username=jaideep190&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=jaideep190&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
+
 
 <br/>
 
@@ -46,31 +42,77 @@
   <li>📫 Reach me at: <strong>ajaiajai710@gmail.com</strong></li>
 </ul>
 
-## 🌟 Featured Project: smartBP-Backend
+<h2 align="center">
+  🌟 Featured Projects 🌟
+</h2>
+
+<p align="center">
+  <em>Innovative solutions for modern healthcare 🏥💻🩺</em>
+</p>
 
 <div align="center">
-  <h3>SmartBP: Intelligent Blood Pressure Management System</h3>
-  <p>A robust backend solution for managing and analyzing blood pressure data.</p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🖥️ SmartBP Frontend</h3>
+        <img src="https://media.giphy.com/media/3o7TKMfn35NL1llPig/giphy.gif" width="60" height="60" alt="Stethoscope GIF"/>
+        <p><em>Revolutionizing blood pressure measurement through video analysis</em></p>
+        <a href="https://smart-bp-frontend.vercel.app/" target="_blank">Live Demo</a> | 
+        <a href="https://github.com/yourusername/smartBP-Frontend" target="_blank">Repository</a>
+      </td>
+      <td align="center" width="50%">
+        <h3>⚙️ SmartBP Backend</h3>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM0YzIzMzM2ZWNjNjQzZWNjMzM2YzMzNmM2MzY2NjMzNjY2NjY2NiZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60" height="60" alt="AI Processing GIF"/>
+        <p><em>AI-powered blood pressure monitoring service</em></p>
+        <a href="https://smartbp-backend.onrender.com" target="_blank">API Endpoint</a> | 
+        <a href="https://github.com/yourusername/smartBP-Backend" target="_blank">Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>🚀 Key Features:</h4>
+        <ul>
+          <li>📹 Video-based BP measurement</li>
+          <li>⏱️ Countdown timer for accuracy</li>
+          <li>📊 Real-time results display</li>
+          <li>📱 Responsive design</li>
+        </ul>
+        <h4>🛠️ Tech Stack:</h4>
+        <p>
+          <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" height="30"/>
+          <img src="https://reactjs.org/logo-180x180.png" alt="React" width="30" height="30"/>
+          <img src="https://w7.pngwing.com/pngs/74/362/png-transparent-typescript-plain-logo-icon-thumbnail.png" alt="TypeScript" width="30" height="30"/>
+          <img src="https://mui.com/static/logo.png" alt="Material-UI" width="30" height="30"/>
+          <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="30" height="30"/>
+        </p>
+      </td>
+      <td>
+        <h4>🚀 Key Features:</h4>
+        <ul>
+          <li>📹 Video upload processing</li>
+          <li>📊 PPG signal extraction</li>
+          <li>🧠 AI-powered BP prediction</li>
+          <li>🔒 Secure file handling</li>
+        </ul>
+        <h4>🛠️ Tech Stack:</h4>
+        <p>
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="30" height="30"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### Key Features:
-- 📊 Advanced data analytics for blood pressure trends
-- 🔐 Secure user authentication and data protection
-- 🔄 Real-time data synchronization
-- 📱 RESTful API for seamless frontend integration
-- 📈 Customizable reporting and alerts
+<h2 align="center">
+  🤝 Connect with Me
+</h2>
 
-<div align="center">
-  <a href="https://github.com/jaideep190/smartBP-Backend" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github" alt="View Project on GitHub" />
-  </a>
-</div>
 
-<br/>
-
-## 🤝 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/jaideep190" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -79,9 +121,11 @@
   </a>
 </p>
 
-## 💻 Technical Proficiencies
+<h2 align="center">
+  💻 Technical Proficiencies
+</h2>
 
-<table>
+<table align = "center">
   <tr>
     <td align="center"><strong>Category</strong></td>
     <td align="center"><strong>Technologies</strong></td>
@@ -142,7 +186,11 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
+
+
+<h2 align="center">
+  📊 GitHub Stats
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideep190&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
