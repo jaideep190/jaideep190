@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A020F0&center=true&vCenter=true&width=940&lines=Welcome+to+Thakur+Jaideep+Singh's+GitHub+Profile!" alt="Animated Welcome Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=06bdee&center=true&vCenter=true&width=940&lines=Welcome+to+Thakur+Jaideep+Singh's+GitHub+Profile!" alt="Animated Welcome Text" />
 </div>
 
 <div align="center">
