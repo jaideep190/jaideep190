@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://jaideep-portfolio-roan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out!-purple?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2b2b2b" alt="Portfolio Button" />
+  </a>
+</div>
+<br/>
+<div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2b2b2b" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2b2b2b" alt="Machine Learning Enthusiast" />
 </div>
